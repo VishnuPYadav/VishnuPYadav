@@ -10,15 +10,13 @@ I am a passionate self-taught data analyst with a keen interest in uncovering in
 ### My Journey:
 As a self-taught data analyst, I have honed my skills through online courses, books, and hands-on projects. My GitHub repositories are a testament to my learning journey and the practical application of my knowledge. Each project reflects my dedication to mastering the tools and techniques of data analysis.
 
-Featured Projects:
+## Featured Projects:
 [Project 1 Name]: [Brief description of the project, what tools and techniques were used, and the insights gained or problems solved.]
-[Project 2 Name]: [Brief description of the project, what tools and techniques were used, and the insights gained or problems solved.]
-[Project 3 Name]: [Brief description of the project, what tools and techniques were used, and the insights gained or problems solved.]
 
 ### Let's Connect:
 I am always eager to connect with fellow data enthusiasts, collaborate on exciting projects, and learn from others in the community. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss data, collaborate, or simply share insights.
 
-📧 [Email] aartivishnu1212@gmail.com | [LinkedIn](linkedin.com/in/vish1998) |  [Personal Website/Blog]
+📧 [Email](aartivishnu1212@gmail.com) | [LinkedIn](linkedin.com/in/vish1998) |  [Personal Website/Blog]
 
 Thank you for visiting my GitHub profile!
 <!--
