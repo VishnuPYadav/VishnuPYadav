@@ -16,7 +16,7 @@ As a self-taught data analyst, I have honed my skills through online courses, bo
 ### Let's Connect:
 I am always eager to connect with fellow data enthusiasts, collaborate on exciting projects, and learn from others in the community. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss data, collaborate, or simply share insights.
 
-📧 [Email](aartivishnu1212@gmail.com) | [LinkedIn](linkedin.com/in/vish1998) |  [Personal Website/Blog]
+📧 [Email](aartivishnu1212@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vish1998/) |  [Personal Website/Blog]
 
 Thank you for visiting my GitHub profile!
 <!--
